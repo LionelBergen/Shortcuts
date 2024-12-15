@@ -11,3 +11,6 @@ Search by key: Assign a shortcut and look inside "Shortcut currently used by" fi
 
 ## Visual Studio Code  
 You can open `keybindings.json` in the keyboard shortcuts menu by clicking the icon ![image](https://github.com/user-attachments/assets/791c6edb-728e-4f03-8f41-7b4004e9e617) in the top left, after going to keyboard shortcuts via `File` -> `Preferences` -> `Keyboard Shortcuts`  
+
+## InteliJ  
+`File` -> `Settings` -> `Keymap`  
