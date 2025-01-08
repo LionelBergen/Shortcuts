@@ -14,3 +14,7 @@ You can open `keybindings.json` in the keyboard shortcuts menu by clicking the i
 
 ## InteliJ  
 `File` -> `Settings` -> `Keymap`  
+
+
+
+# slickrun  
