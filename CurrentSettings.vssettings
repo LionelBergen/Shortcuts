@@ -88,9 +88,13 @@
 					<Shortcut Command="Edit.GoToFile" Scope="Global">Ctrl+Shift+O</Shortcut>
 					<Shortcut Command="Edit.GoToDefinition" Scope="Global">Ctrl+B</Shortcut>
 					<RemoveShortcut Command="Build.BuildSolution" Scope="Global">Ctrl+Shift+B</RemoveShortcut>
+					<RemoveShortcut Command="View.NavigateBackward" Scope="Global">Ctrl+-</RemoveShortcut>
+					<Shortcut Command="View.NavigateBackward" Scope="Global">Ctrl+Alt+Left Arrow</Shortcut>
+					<Shortcut Command="View.NavigateForward" Scope="Global">Ctrl+Alt+Right Arrow</Shortcut>
+					<RemoveShortcut Command="Edit.NextSubword" Scope="Text Editor">Ctrl+Alt+Right Arrow</RemoveShortcut>
+					<RemoveShortcut Command="Edit.PreviousSubword" Scope="Text Editor">Ctrl+Alt+Left Arrow</RemoveShortcut>
 				</UserShortcuts>
 			</KeyboardShortcuts>
 		</Category>
 	</Category>
 </UserSettings>
--- first ^
